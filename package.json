@@ -1,0 +1,19 @@
+{
+  "name": "nuxt_prismic",
+  "version": "1.0.2",
+  "description": "Prismic Modul for Nuxtjs",
+  "main": "prismic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxtjs",
+    "prismic"
+  ],
+  "author": "Julius Gottlöber <julius.gottloeber@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "prismic-javascript": "^1.5.0"
+  }
+}
